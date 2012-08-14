@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<title>Knockout Beer List</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+	<header>
+	</header>
+	<div id="main" role="main">
+		<h1>My beer list a.k.a "Action Plan List" ;)</h1>
+		<p>My average rating is: <span class="badge badge-info" data-bind="text: averageRating"></span></p>
+		<p>My highest rated beer is: <span data-bind="text: highestRatedBeer().name"></span> <span class="badge badge-info" data-bind="text: highestRatedBeer().rating"></span>
+
+		<table class="table table-striped">
+		    <thead>
+		    	<tr>
+		        	<th>Beer name</th><th>Style</th><th>Rating</th><th></th>
+		    	</tr>
+		    </thead>
+		    <tbody data-bind="foreach: beers()">
+				<tr>
+			        <td><span data-bind="text: name"></span></td>
+			        <td data-bind="text: style"></td>
+			        <td><span class="badge badge-inverse" data-bind="text: rating"></span> <input data-bind="value: rating" /></td>
+			        <td><a href="#" data-bind="click: $root.removeBeerReview">Remove</a></td>
+			    </tr>    
+		    </tbody>
+		</table>
+		<form data-bind="submit: addBeerReview">
+		    <h3>Create custom review:</h3>
+			<input data-bind="value: customBeerReviewName" placeholder="Name of beer" />
+			<input data-bind="value: customBeerReviewStyle" placeholder="Name of beer style" />
+			<input data-bind="value: customBeerReviewRating" placeholder="Rate the beer (1-5)" />
+		    
+		    <button type="submit">Add review</button>
+		</form>
+	</div>
+	<footer>
+
+	</footer>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="assets/js/knockout-2.1.0.js"></script>
+	<script src="assets/bootstrap/js/bootstrap.min.js"></script>
+	<script src="assets/js/app.js"></script>
+</body>
+</html>

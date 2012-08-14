@@ -1,0 +1,630 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hi",
+				"highestRatedBeer"
+			],
+			[
+				"ave",
+				"averageRating"
+			],
+			[
+				"cus",
+				"customBeerReviewName"
+			],
+			[
+				"ci",
+				"customBeerReviewRating"
+			],
+			[
+				"cu",
+				"customBeerReviewName"
+			],
+			[
+				"cusom",
+				"customBeerReviewRating"
+			],
+			[
+				"custom",
+				"customBeerReviewStyle"
+			],
+			[
+				"beer",
+				"beers"
+			],
+			[
+				"bee",
+				"beer"
+			],
+			[
+				"S",
+				"script"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"def",
+				"default-form"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"x-button-p",
+				"x-button-pressing"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"sm",
+				"small-font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"defa",
+				"default-distance"
+			],
+			[
+				"getMa",
+				"getMatchList"
+			],
+			[
+				"round",
+				"roundselector"
+			],
+			[
+				"getRound",
+				"getRoundSelector"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"defu",
+				"default-distance"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"top",
+				"doTop4AndTopScorer"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"Match",
+				"MatchList"
+			],
+			[
+				"set",
+				"setUserData"
+			],
+			[
+				"Ree",
+				"RememberMe"
+			],
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"jq",
+				"jqXHR"
+			],
+			[
+				"su",
+				"success"
+			],
+			[
+				"de",
+				"default-distance"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"default",
+				"default-padding"
+			],
+			[
+				"backgroun",
+				"background"
+			],
+			[
+				"match",
+				"matchExt"
+			],
+			[
+				"goa",
+				"goalDiff"
+			],
+			[
+				"firstTeam",
+				"firstTeamGoals"
+			],
+			[
+				"secon",
+				"secondTeamGoalsBet"
+			],
+			[
+				"first",
+				"firstTeamGoalsBet"
+			],
+			[
+				"roun",
+				"roundsStore"
+			],
+			[
+				"matc",
+				"match-list"
+			],
+			[
+				"Mach",
+				"matchStore"
+			],
+			[
+				"ma",
+				"matchStore"
+			],
+			[
+				"ROun",
+				"Rounds"
+			],
+			[
+				"divi",
+				"divisionStore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2169,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/app.coffee",
+			"settings":
+			{
+				"buffer_size": 1652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/js/README.md",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Co",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eriktoyra/Projects/sandbox/knockback/assets/js/app.js",
+		"/Users/eriktoyra/Projects/sandbox/knockback/assets/js/app.coffee",
+		"/Users/eriktoyra/Projects/sandbox/knockback/assets/css/style.css",
+		"/Users/eriktoyra/Projects/sandbox/knockback/resources/js/app.coffee",
+		"/Users/eriktoyra/Projects/sandbox/knockback/resources/js/app.js",
+		"/Users/eriktoyra/Projects/ddp-web-tools/target/scala-2.9.1/resource_managed/main/public/javascripts/main.js",
+		"/Users/eriktoyra/DevelopmentTools/resin-4.0.17/logs/hibernate.log",
+		"/Users/eriktoyra/DevelopmentTools/resin-4.0.17/conf/resin.xml",
+		"/Volumes/Sites/ddp_live/logs/error_log",
+		"/Users/eriktoyra/Projects/ddp-web-tools/project/build.properties",
+		"/Volumes/Sites-1/ddp_live/conf/resin-host.xml",
+		"/Users/eriktoyra/Projects/ddp-static/src/main/resources/static/content/en_int/vrm/step1_content.jsp",
+		"/Users/eriktoyra/Projects/ddp-static/src/main/resources/static/content/en_int/vrm/vrm/step1_content.jsp",
+		"/Volumes/Sites/ddp_test/conf/resin-host.xml",
+		"/Volumes/Sites/ddp_stage/conf/resin-host.xml",
+		"/Users/eriktoyra/Sites/Sandbox/ale_list/index.html",
+		"/Users/eriktoyra/Sites/Sandbox/ale_list/ale_list.coffee",
+		"/Volumes/Sites-1/ddp_training2/logs/access_log",
+		"/Users/eriktoyra/Desktop/framtidsvisioner.txt",
+		"/Users/eriktoyra/Sites/EM-Web/css/extra.css",
+		"/Users/eriktoyra/Sites/EM-Web/em-bjud-in.html",
+		"/Users/eriktoyra/Sites/EM-Web/em-regler.html",
+		"/Users/eriktoyra/Sites/EM-Web/EM-Web.sublime-project",
+		"/Users/eriktoyra/Sites/EM-Web/EM-Web.sublime-workspace",
+		"/Users/eriktoyra/Sites/EM-Web/README",
+		"/Users/eriktoyra/Sites/EM/app/view/ResultsPage.js",
+		"/Users/eriktoyra/Sites/EM/app/view/LastUpdated.js",
+		"/Users/eriktoyra/Sites/EM/app/view/LoginForm.js",
+		"/Users/eriktoyra/Sites/EM/app/controller/MainPanel.js",
+		"/Users/eriktoyra/Sites/EM/app/model/Round.js",
+		"/Users/eriktoyra/Sites/EM/app/view/Viewport.js",
+		"/Users/eriktoyra/Sites/EM/app/view/MatchList.js",
+		"/Users/eriktoyra/Sites/EM/app/controller/ResultsPage.js",
+		"/Users/eriktoyra/Projects/ddp-ipad/audit-ipad-support-tool/AuditiPadSupportTool/Model.xcdatamodeld/Model.xcdatamodel/layout",
+		"/Users/eriktoyra/Projects/ddp-ipad/audit-ipad-support-tool/AuditiPadSupportTool/Model.xcdatamodeld/Model.xcdatamodel/elements",
+		"/Users/eriktoyra/Sites/EM/app/model/Match.js",
+		"/Users/eriktoyra/Sites/EM/app/view/TopScorer.js",
+		"/Users/eriktoyra/Sites/EM/app/view/Top4.js",
+		"/Users/eriktoyra/Sites/EM/app/controller/MainNav.js",
+		"/Users/eriktoyra/Sites/EM/app/store/Matches.js",
+		"/Users/eriktoyra/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/eriktoyra/Sites/EM/app/store/RememberMe.js",
+		"/Users/eriktoyra/Sites/EM/app/model/RememberMe.js",
+		"/Users/eriktoyra/Sites/Sandbox/ajax-test.html",
+		"/Users/eriktoyra/Sites/Sandbox/ajax-request-test.php",
+		"/Users/eriktoyra/Sites/EM/index.html",
+		"/Users/eriktoyra/Sites/EM/.senchasdk",
+		"/Users/eriktoyra/Sites/ajax-request-test.html",
+		"/Users/eriktoyra/Sites/EM/app/store/Rounds.js",
+		"/Users/eriktoyra/Sites/EM/resources/json/matches.json",
+		"/Users/eriktoyra/Sites/EM/app/controller/MatchList.js",
+		"/Users/eriktoyra/Sites/EM/packager.json",
+		"/Users/eriktoyra/Sites/EM/EM-Stendahls.sublime-project",
+		"/Users/eriktoyra/Projects/ddp/ddp-web/target/ddp-1.6.8/META-INF/MANIFEST.MF",
+		"/Users/eriktoyra/Sites/EM/resources/json/matches.old",
+		"/Users/eriktoyra/Sites/EM/app.json",
+		"/Users/eriktoyra/Sites/EM/resources/js/dateFormat.js",
+		"/Users/eriktoyra/Sites/EM/build/production/app.js",
+		"/Users/eriktoyra/Sites/EM/resources/sass/app.scss",
+		"/Users/eriktoyra/Sites/EM/app/view/MainNav.js",
+		"/Users/eriktoyra/Sites/EM/app.js",
+		"/Users/eriktoyra/Sites/EM/app/controller/Rounds.js",
+		"/Users/eriktoyra/Desktop/faq.jsp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">>>",
+			"<<<<",
+			"EM.",
+			"control",
+			"controller",
+			"getMatchList",
+			"last-updated",
+			"doTop4",
+			"lastUpdated",
+			"right",
+			"checkFirstTeamWin",
+			"top-4-and-top-scorer",
+			"x-button",
+			"convertUnixTimeToMilliseconds",
+			"awayTeamGoalsBet",
+			"secondTeamGoals",
+			"homeTeamGoalsBet",
+			"firstTeamGoalsBet",
+			"firstTeamGoals",
+			"$default-padding",
+			"gameId",
+			"util."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"checkHomeTeamWin",
+			"awayTeamGoals",
+			"homeTeamGoals",
+			"$default-distance",
+			"matchId"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								899,
+								899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/css/style.css",
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/js/app.coffee",
+					"settings":
+					{
+						"buffer_size": 1652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1225,
+								1225
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/app.js",
+					"settings":
+					{
+						"buffer_size": 3071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1806,
+								1806
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 504.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "assets/js/README.md",
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"EM/.senchasdk"
+			],
+			[
+				"app.c",
+				"resources/sass/app.scss"
+			],
+			[
+				"app.js",
+				"app.json"
+			],
+			[
+				"matc",
+				"app/store/Matches.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/eriktoyra/Sites/EM/EM.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}
